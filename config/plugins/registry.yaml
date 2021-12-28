@@ -1,13 +1,2 @@
 version: "1.0"
-plugins:
-- id: "org.craftercms.plugin.cliengo"
-  version:
-    major: 1
-    minor: 0
-    patch: 2
-  type: "site"
-  pluginUrl: "https://github.com/craftercms/chatbot-plugin/tree/cliengo"
-  installationDate: "2021-12-28T20:19:09.469517Z"
-  files:
-  - path: "templates/plugins/org/craftercms/plugin/cliengo/body_bottom.ftl"
-  config: []
+plugins: []
